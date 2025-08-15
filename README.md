@@ -1,0 +1,2 @@
+# housing-market-prediction-ml
+This project develops two machine learning models to predict key outcomes in the housing market: estimating house prices and determining if a house will sell within 30 days. The models were built using Python and the scikit-learn library, with data cleaning, exploratory data analysis, and model performance comparison detailed in the accompanying Jupyter Notebook and final report.
