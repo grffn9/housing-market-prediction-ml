@@ -15,9 +15,8 @@ This project develops two machine learning models to predict key outcomes in the
 ## Project Structure
 
 * **`Clean_Data.csv`**: The raw dataset used as the basis for the project.
-* **`Final Python Code.ipynb`**: The Jupyter Notebook containing all the code for data processing, model training, and evaluation. This is the core of the project.
+* **`Model.ipynb`**: The Jupyter Notebook containing all the code for data processing, model training, and evaluation. This is the core of the project.
 * **`Final Report.pdf`**: A detailed report outlining the methodology, findings, and conclusions of the machine learning project.
-* **`ML Project Notes.txt`**: A text file with miscellaneous notes and thoughts from the development process.
 
 ## Requirements
 
@@ -36,11 +35,11 @@ You can install the required libraries using pip:
 ## Installation & Usage
 
 1.  **Clone the repository:**
-    `git clone https://github.com/your-username/housing-market-prediction.git`
-    `cd housing-market-prediction`
+    `git clone https://github.com/your-username/housing-market-prediction-ml.git`
+    `cd housing-market-prediction-ml`
 
 2.  **Open the Jupyter Notebook:**
-    `jupyter notebook "Final Python Code.ipynb"`
+    `jupyter notebook "Model.ipynb"`
 
 3.  **Run the cells** in the notebook to replicate the data analysis and model training steps.
 
